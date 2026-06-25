@@ -1,32 +1,61 @@
 ---
-name: "Claude Shannon"
-title: "Mathematician and Electrical Engineer"
+
+name: "Qingyun (Quintus) Pei"
+title: "Statistician | AI Researcher | Educator"
+
 experience:
-  - role: "Research Mathematician"
-    institution: "Bell Telephone Laboratories"
-    period: "1941 - 1972"
-    description: "Conducted groundbreaking research in information theory, cryptography, and digital computing."
-  - role: "Professor of Electrical Engineering"
-    institution: "MIT"
-    period: "1958 - 1978"
-    description: "Taught courses in information theory, switching theory, and mathematical foundations of computing."
+
+- role: "AP Research Instructor"
+  institution: "Kean University, Jersey City, NJ"
+  period: "June 2026 - July 2026"
+  description: "Taught AP Research with a focus on research design, quantitative research methods, and academic inquiry while guiding students through the development of independent research projects."
+
+#- role: "Mathematics Teacher"
+  #institution: "Lyndhurst Middle School"
+  #period: "2026 - Present"
+  #description: "Teach mathematics in a tenure-track position, integrating statistics, technology, and data literacy into #classroom instruction."
+
+- role: "Mathematics Instructor"
+  institution: "Technology High School, Newark, NJ"
+  period: "Dec 2025 - June 2026"
+  description: "Taught Algebra II and Statistics, designed original assessments and instructional materials, and integrated technology and data literacy into mathematics instruction."
+
 education:
-  - degree: "PhD in Mathematics"
-    institution: "MIT"
-    period: "1936 - 1940"
-    thesis: "An Algebra for Theoretical Genetics"
-    description: "Developed mathematical foundations for genetic inheritance."
-  - degree: "Bachelor of Science in Electrical Engineering"
-    institution: "University of Michigan"
-    period: "1932 - 1936"
+
+- degree: "Master of Science in Financial Engineering"
+  institution: "Stevens Institute of Technology"
+  period: "2019 – 2022"
+  thesis: "Methods on the Estimations of SOFR Term Structures"
+  description: "Specialized in quantitative finance, fixed-income modeling, statistical learning, and financial data analysis."
+
+- degree: "Bachelor of Economics in Finance"
+  institution: "Changsha University of Science and Technology"
+  period: "2015 – 2019"
+  description: "Focused on financial economics, investment analysis, quantitative finance, and economic theory."
+
+- degree: "Bachelor of Engineering in Civil Engineering"
+  institution: "Changsha University of Science and Technology"
+  period: "2015 – 2019"
+  description: "Developed a strong foundation in engineering mathematics, mechanics, structural analysis, and quantitative problem-solving."
+
+
 ---
 
 ## Skills
-- Information Theory
-- Mathematics
-- Electrical Engineering
-- Cryptography
-- Computer Science
 
-## Biographical Summary
-Extra biographical notes or a summary can go here.
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning & Explainable AI
+- Statistical Modeling
+- Educational Data Mining
+- Learning Analytics
+- Financial Data Science
+- Quantitative Finance
+- Time Series Analysis
+- Knowledge Graphs
+- Python (PyTorch, Scikit-learn, XGBoost)
+- LaTeX & Git
+
+## Professional Summary
+
+Statistician, educator, and AI researcher with research interests spanning large language models, educational data mining, interpretable machine learning, and quantitative finance. My work focuses on developing trustworthy AI systems that transform complex data into transparent, evidence-based decision support for both education and finance.
