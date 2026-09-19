@@ -2,14 +2,14 @@
 name: "Qingyun Pei"
 avatar: "Qingyun.jpg"
 shortBio: "Turning data into evidence, and evidence into better decisions."
-institution: "Kean University · Summer STEAM Instructor"
+institution: "Mathematics Educator · Kean University Adjunct Professor"
 ---
 
-I am a statistician and data scientist with research interests in artificial intelligence, education, and quantitative analytics. My work focuses on developing interpretable and trustworthy AI methods that transform complex educational data and financial data into meaningful insights for research and decision making.
+I am an educator and interdisciplinary researcher with a background in financial engineering, statistics, and data science. My work explores how interpretable and reproducible computational methods can transform complex educational and financial data into meaningful evidence for research, teaching, and decision-making.
 
-My recent projects explore large language models, educational data mining, curriculum-industry alignment, and statistical learning. I am also interested in applying machine learning and quantitative methods to financial markets, where large-scale data can be transformed into interpretable signals for investment research and decision support.
+My recent projects examine AI-assisted curriculum–industry alignment, interpretable machine learning for teacher workforce research, and large language model applications in financial news analysis. Across these projects, I am particularly interested in combining quantitative methods with domain knowledge to produce findings that are transparent, practical, and grounded in real-world contexts.
 
-Beyond research, I enjoy building open-source research tools, developing reproducible data science workflows, and teaching students to think critically through statistics, programming, and artificial intelligence.
+Beyond research, I enjoy developing open-source research tools, building reproducible data science workflows, and helping students engage with mathematics, finance, programming, and artificial intelligence through applied learning.
 
 ## Academic Journey
 
@@ -19,9 +19,7 @@ Over time, my interests naturally expanded from financial modeling toward educat
 
 ## Current Work
 
-Currently, I am working on several interdisciplinary research projects involving educational analytics, large language models, and quantitative finance. My recent work includes AI-assisted curriculum-industry alignment, interpretable machine learning for teacher workforce research, and large language model applications in financial news analysis.
-
-During Summer 2026, I serve as a STEAM Instructor at Kean University, where I teach research methods and quantitative methods while mentoring high school students in developing independent research projects.
+Currently, I teach Special Education Geometry at Lyndhurst High School and serve as an adjunct faculty member in the Department of Accounting and Finance at Kean University, where I teach undergraduate courses in derivatives and machine learning. Alongside my teaching, I pursue interdisciplinary research at the intersection of educational analytics, large language models, and quantitative finance. My recent work includes AI-assisted curriculum–industry alignment, interpretable machine learning for teacher workforce research, and large language model applications in financial news analysis.
 
 ## Research Interests
 

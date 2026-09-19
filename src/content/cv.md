@@ -1,9 +1,20 @@
 ---
 
 name: "Qingyun (Quintus) Pei"
-title: "Statistician | AI Researcher | Educator"
+title: "Mathematics Educator | AI Researcher | Quantitative Finance Scholar"
 
 experience:
+
+- role: "Special Education Geometry Teacher"
+  institution: "Lyndhurst High School, Lyndhurst, NJ"
+  period: "September 2026 - Present"
+  description: "Teach Geometry in a special education setting using differentiated instruction, visual learning tools, and scaffolded problem-solving activities while supporting students' individualized academic goals and progress in the general education curriculum."
+
+- role: "Adjunct Professor"
+  institution: "Kean University, Union, NJ"
+  period: "September 2026 - Present"
+  description: "Teach undergraduate courses in derivatives and machine learning within the Department of Accounting and Finance, integrating financial theory, applied quantitative methods, Python-based analysis, and practical model interpretation."
+
 
 - role: "AP Research Instructor"
   institution: "Kean University, Jersey City, NJ"
@@ -58,4 +69,4 @@ education:
 
 ## Professional Summary
 
-Statistician, educator, and AI researcher with research interests spanning large language models, educational data mining, interpretable machine learning, and quantitative finance. My work focuses on developing trustworthy AI systems that transform complex data into transparent, evidence-based decision support for both education and finance.
+Mathematics educator, adjunct professor, and interdisciplinary AI researcher with experience spanning secondary education, university teaching, educational data science, and quantitative finance. My work applies large language models, interpretable machine learning, and statistical methods to transform complex educational and financial data into transparent, reproducible, and decision-relevant evidence.
