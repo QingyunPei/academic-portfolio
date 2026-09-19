@@ -1,7 +1,7 @@
 ---
 title: "Generative AI-Assisted Curriculum Auditing: Mapping a High School Mathematics Pathway to O*NET Data Scientist Competencies"
 
-author: "Qingyun Pei, Haoxin Zhu, Qilong Yu, Yuexi Ding1"
+author: "Qingyun Pei, Haoxin Zhu, Qilong Yu, Yuexi Ding"
 
 date: "2026-10-25"
 
