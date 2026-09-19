@@ -15,7 +15,7 @@ export const SOCIALS: SocialLink[] = [
     },
     {
         name: "Google Scholar",
-        href: "https://scholar.google.com/citations?user=xGE-YrEAAAAJ",
+        href: "https://scholar.google.com/citations?hl=en&user=IO6D1Y0AAAAJ",
         linkTitle: `Qingyun Pei on Google Scholar`,
         isActive: true,
     },
